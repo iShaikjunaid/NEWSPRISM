@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Inside the Hall"
+            },
+            "author": "Alex Bozich",
+            "title": "At the Buzzer: Indiana 70, Maryland 60 - Inside the Hall",
+            "description": "Quick thoughts on a 70-60 win against Maryland:",
+            "url": "https://www.insidethehall.com/2023/03/10/at-the-buzzer-indiana-70-maryland-60/",
+            "urlToImage": "https://www.insidethehall.com/wp-content/uploads/2023/03/03102023hsx.jpg",
+            "publishedAt": "2023-03-11T04:28:23Z",
+            "content": "Quick thoughts on a 70-60 win against Maryland:\r\nHow it happened\r\nIndiana was crisp to start Friday’s Big Ten tournament quarterfinal matchup against Maryland at the United Center. The Hoosiers made … [+2244 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Durgesh Nandan Jha",
+            "title": "India records first two H3N2 flu deaths in Haryana, Karnataka - Times of India",
+            "description": "India News: The Union health ministry on Friday advised states to be on alert after two H3N2 deaths were reported from Haryana and Karnataka. There are four types",
+            "url": "https://timesofindia.indiatimes.com/india/india-records-first-two-h3n2-flu-deaths-in-haryana-karnataka/articleshow/98551258.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-98551260,width-1070,height-580,imgsize-73864,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2023-03-10T20:29:00Z",
+            "content": "H3N2 Influenza Symptoms, Treatment, and Safety Precautions"
+        }
+    ]
+}
